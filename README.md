@@ -1,6 +1,6 @@
 # Craft CMS 3 Bootstrap with Nanobox
 
-This repo contains the files and templates necessary to bootstrap a brand new Craft CMS 3 project using [Nanobox](https://nanobox.io).
+This repo contains the files and templates necessary to bootstrap a brand new [Craft CMS 3](https://craftcms.com/3) project using [Nanobox](https://nanobox.io).
 
 ## Download & Install Nanobox
 If you haven't already, [create a free Nanobox account](https://dashboard.nanobox.io/users/register) and [download and install Nanobox](https://dashboard.nanobox.io/download).
