@@ -23,10 +23,10 @@ web.craft:
   start: php-server
   network_dirs:
     data.storage:
-      - craft/storage
+      - storage
   log_watch:
-    craft[error]: craft/storage/logs/web.log
-    craft[stacktrace]: craft/storage/logs/phperrors.log
+    craft[error]: storage/logs/web.log
+    craft[stacktrace]: storage/logs/phperrors.log
 
 data.db:  
   image: nanobox/postgresql:9.5
