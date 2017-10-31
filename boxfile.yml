@@ -20,7 +20,9 @@ run.config:
       - zlib
 
 web.craft:  
-  start: php-server
+  start:
+    php: start-php
+    apache: start-apache
   network_dirs:
     data.storage:
       - storage
