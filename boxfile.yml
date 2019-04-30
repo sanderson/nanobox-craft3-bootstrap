@@ -18,6 +18,7 @@ run.config:
       - session
       - zip
       - zlib
+      - fileinfo
 
 web.craft:  
   start:
